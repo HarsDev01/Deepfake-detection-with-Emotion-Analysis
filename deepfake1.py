@@ -60,6 +60,6 @@ def print_metrics(y_true, y_pred):
     print(confusion_matrix(y_true, y_pred, labels=['real', 'fake']))
 
 # Set your dataset folder path
-dataset_path = "/Users/harshitbansal/real_and_fake_face"
+dataset_path = "real_and_fake_face"
 y_true, y_pred = evaluate_folder(dataset_path)
 print_metrics(y_true, y_pred)
