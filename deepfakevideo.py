@@ -17,7 +17,7 @@ emotion_to_index = {e: i for i, e in enumerate(EMOTION_LABELS)}
 # Configuration
 FRAME_SKIP = 5
 SMOOTH_WINDOW = 5
-AVG_THRESHOLD = 0.45
+AVG_THRESHOLD = 0.47
 MAX_THRESHOLD = 0.6
 HIGH_CONFIDENCE_COUNT = 10
 PREDICTION_THRESHOLD = 0.5  # Used for per-frame judgment
