@@ -215,10 +215,3 @@ Feel free to fork, adapt, and cite.
 
 ---
 
-Would you like me to:
-
-* Convert this into a `README.md` file ready for upload?
-* Suggest 1-line descriptions for each `.py` file for comments?
-* Help push this to GitHub properly?
-
-Let me know — you're now **100% ready to impress** with this!
