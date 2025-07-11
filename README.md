@@ -83,12 +83,11 @@ TimeDistributed(EfficientNetB4)
 
 ## 🧪 Evaluation Metrics
 
-| Model Type     | Accuracy | Precision | Recall | F1 Score | AUC  |
-| -------------- | -------- | --------- | ------ | -------- | ---- |
-| EfficientNetB4 | 0.92     | 0.90      | 0.93   | 0.91     | —    |
-| CNN + GRU      | 0.94     | 0.92      | 0.95   | 0.935    | 0.97 |
+| Model                 | Accuracy  | Precision | Recall    | F1 Score  |
+| --------------------- | --------- | --------- | --------- | --------- |
+| EfficientNetB4 (Base) | 48.1%     | 45.6%     | 53.5%     | 49.2%     |
+| **Fine-tuned Model**  | **57.7%** | **53.6%** | **74.6%** | **62.3%** |
 
-📈 Confusion matrix and classification report are printed for both.
 
 ---
 
