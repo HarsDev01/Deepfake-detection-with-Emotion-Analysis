@@ -209,8 +209,8 @@ Likely: 🚨 Deepfake
 
 ## 📜 License
 
-This project is open-source for educational and research purposes.
-Feel free to fork, adapt, and cite.
+This project is licensed under the [MIT License](./LICENSE).  
+Feel free to use, adapt, and cite the work with attribution.
 
 ---
 
